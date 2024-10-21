@@ -1,7 +1,7 @@
 {
   "id": "eRob_developer/deploy-your-site",
-  "title": "Deploy your site",
-  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "title": "deploy-your-site",
+  "description": "",
   "source": "@site/docs/eRob_developer/deploy-your-site.md",
   "sourceDirName": "eRob_developer",
   "slug": "/eRob_developer/deploy-your-site",

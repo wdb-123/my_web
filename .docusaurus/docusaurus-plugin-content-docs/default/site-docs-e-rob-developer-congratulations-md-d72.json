@@ -1,7 +1,7 @@
 {
   "id": "eRob_developer/congratulations",
   "title": "Congratulations!",
-  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "description": "",
   "source": "@site/docs/eRob_developer/congratulations.md",
   "sourceDirName": "eRob_developer",
   "slug": "/eRob_developer/congratulations",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Deploy your site",
+    "title": "deploy-your-site",
     "permalink": "/docs/eRob_developer/deploy-your-site"
   },
   "next": {

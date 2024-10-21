@@ -1,7 +1,7 @@
 {
   "id": "eRob_developer/markdown-features",
   "title": "Markdown Features",
-  "description": "Docusaurus supports Markdown and a few additional features.",
+  "description": "",
   "source": "@site/docs/eRob_developer/markdown-features.mdx",
   "sourceDirName": "eRob_developer",
   "slug": "/eRob_developer/markdown-features",
@@ -21,7 +21,7 @@
     "permalink": "/docs/eRob_developer/LLM-python-TwinCAT"
   },
   "next": {
-    "title": "Deploy your site",
+    "title": "deploy-your-site",
     "permalink": "/docs/eRob_developer/deploy-your-site"
   }
 }
